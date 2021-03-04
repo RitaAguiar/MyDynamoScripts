@@ -10,3 +10,5 @@ This script entails the generation of a Roof Surface (Mass Category) that is lat
 ![Project EXPO 1.11 Roof Surface](./Project_EXPO_1.11_Roof_Surface.JPG)
 
 ![Project EXPO 1.11 Script Workspace](./Project_EXPO_1.11_Script_Workspace.png)
+
+![Render of the Project](https://i.postimg.cc/tC6Y8H8P/Parc-des-Nations-Lisbon-1.jpg)
