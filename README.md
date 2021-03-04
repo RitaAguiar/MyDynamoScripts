@@ -9,6 +9,8 @@ This script entails the generation of a Roof Surface (Mass Category) that is lat
 
 ![Project EXPO 1.11 Roof Surface](https://github.com/RitaAguiar/MyDynamoScripts/blob/master/Project_EXPO_1.11_Roof_Surface.JPG)
 
+![Project EXPO 1.11 Workspace](https://github.com/RitaAguiar/MyDynamoScripts/blob/master/Project_EXPO_1.11_Workspace.JNG)
+
 ![Render of the Project](https://www.instagram.com/p/B7GvLJNnoho/)
 
 ![Render of the Project](https://www.instagram.com/p/B7GvLJNnoho/media?size=l)
