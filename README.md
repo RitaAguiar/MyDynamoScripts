@@ -22,4 +22,4 @@ This script generates the Facade Design of The Gherkin Tower using Generic Model
 
 ![Project The Gherkin Tower Script Workspace](./Project_The_Gherkin_Tower_Script_Workspace.png)
 
-![Photograph of the Project The Gherkin Tower](https://s3-ap-southeast-2.amazonaws.com/tud-media/raw/images/The-Gherkin.jpg)
+![Photograph of the Project The Gherkin Tower](https://i0.wp.com/londontopia.net/wp-content/uploads/2015/06/The-Gherkin_safra-group.jpg)
