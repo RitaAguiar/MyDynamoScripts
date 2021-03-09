@@ -18,8 +18,8 @@ This script generates the Facade Design of The Gherkin Tower using Generic Model
 
 ![Project The Gherkin Tower Script Preview](./Project_The_Gherkin_Tower_Script_Preview.JPG)
 
-![Project The Gherkin Tower Roof Facade Design](./Project_The_Gherkin_Facade_Design.JPG)
+![Project The Gherkin Tower Facade Design](./Project_The_Gherkin_Facade_Design.jpg)
 
 ![Project The Gherkin Tower Script Workspace](./Project_The_Gherkin_Script_Workspace.png)
 
-![Render of the Project The Gherkin Tower](https://s3-ap-southeast-2.amazonaws.com/tud-media/raw/images/The-Gherkin.jpg)
+![Photograph of the Project The Gherkin Tower](https://s3-ap-southeast-2.amazonaws.com/tud-media/raw/images/The-Gherkin.jpg)
