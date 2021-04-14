@@ -23,3 +23,6 @@ This script generates the Facade Design of The Gherkin Tower using Generic Model
 ![Project The Gherkin Tower Script Workspace](./The_Gherkin_Tower/Project_The_Gherkin_Tower_Script_Workspace.png)
 
 ![Photograph of the Project The Gherkin Tower](https://i0.wp.com/londontopia.net/wp-content/uploads/2015/06/The-Gherkin_safra-group.jpg)
+
+##Project The Twisted Building
+This script generates the envelop of a horizontal twisted building, inspired by the The Twist: A Sculptural Bridge Modern Architectural Building In Norway.
