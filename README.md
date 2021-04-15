@@ -26,3 +26,5 @@ This script generates the Facade Design of The Gherkin Tower using Generic Model
 
 ## Project The Twisted Building
 This script generates the envelop of a horizontal twisted building, inspired by the The Twist: A Sculptural Bridge Modern Architectural Building In Norway.
+
+![Render Image of the Twist Building](https://www.bocadolobo.com/blog/wp-content/uploads/2019/10/The-Twist-A-Sculptural-Bridge-Modern-Architectural-Building-In-Norway-10.jpg)
